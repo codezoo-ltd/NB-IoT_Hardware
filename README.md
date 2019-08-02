@@ -1,8 +1,9 @@
+
+![initial](https://user-images.githubusercontent.com/22319034/62352150-69435480-b542-11e9-94a3-a27f5d2c60c2.png)
+
 # NB-IoT_Hardware
 
 This is CodeZoo NB-IoT's schematic, development guide, lecture materials.
-
-(https://user-images.githubusercontent.com/22319034/62352150-69435480-b542-11e9-94a3-a27f5d2c60c2.png)
 
 # Schematics
 
